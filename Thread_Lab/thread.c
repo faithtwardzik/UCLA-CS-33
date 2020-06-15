@@ -16,7 +16,7 @@
 
 info_t info = {
   "Faith Twardzik",
-  "105083037",
+  "YOUR_UID_HERE",
 };
 /*  =====================================================================
 	YOUR CODE GOES HERE:
