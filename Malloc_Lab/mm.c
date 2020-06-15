@@ -1,4 +1,12 @@
 /* 
+Assignment: Malloc Lab
+Grade Received: 100/100
+If you found this file helpful, please consider reaching out to me:
+	Website: faithtwardzik.com
+	Insta: @faithtwardzik
+*/
+
+/* 
  * mm.c -  Simple allocator based on implicit free lists, 
  *         next fit placement, and boundary tag coalescing. 
  *
@@ -53,7 +61,7 @@ team_t team = {
     /* First and last name */
     "Faith Twardzik",
     /* UID */
-    "105083037"
+    "YOUR_UID_HERE"
 }; 
 
 /* $begin mallocmacros */
