@@ -1,4 +1,12 @@
 /* 
+Assignment: Data Lab
+Grade Received: 39/34
+If you found this file helpful, please consider reaching out to me:
+  Website: faithtwardzik.com
+  Insta: @faithtwardzik
+*/
+
+/* 
  * CS:APP Data Lab 
  * 
  * <Faith Twardzik, ID# YOUR_ID_HERE>
