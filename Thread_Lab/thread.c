@@ -1,3 +1,11 @@
+/*
+Assignment: Thread Lab
+Grade Received: 110/100
+If you found this file helpful, please consider reaching out to me:
+	Website: faithtwardzik.com
+	Insta: @faithtwardzik
+*/
+
 /*  =====================================================================
 	In this lab, you will implement several versions of a code which
 	computes a histogram of a set of random numbers.  While seemingly
